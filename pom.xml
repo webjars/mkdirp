@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>mkdirp</artifactId>
-    <version>0.3.5</version>
+    <version>0.3.6-SNAPSHOT</version>
     <name>mkdirp</name>
     <description>WebJar for mkdirp</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/mkdirp</url>
         <connection>scm:git:https://github.com/webjars/mkdirp.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/mkdirp.git</developerConnection>
-        <tag>mkdirp-0.3.5</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
